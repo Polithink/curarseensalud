@@ -1,5 +1,5 @@
 <header>
-    <img src="" alt="">
+    <img src="http://lorempixel.com/400/200/" alt="" class="logo header-logo">
     <div class="header-dinamic-text" id="dinamic-text">
         <p>Las vacunas salvan vidas</p>
     </div>
