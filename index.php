@@ -14,6 +14,7 @@
 			case "inicio":
 				include 'templates/nav.php';
 				include 'templates/home/home_template.php';
+				include 'templates/footer.php';
 				break;
 
 			default:
@@ -24,6 +25,7 @@
 	else{
 		include 'templates/nav.php';
 		include 'templates/home/home_template.php';
+		include 'templates/footer.php';
 	}
 	
     include 'templates/scripts.php';
