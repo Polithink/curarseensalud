@@ -12,6 +12,17 @@ body {
     font-size: 16px;
     font-weight: 300;
 }
+.box-container {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 7px 10px 20px 0px rgba(0,0,0, .31);
+    max-width: 100%;
+    width: 100%;
+    margin: 1em 0;
+    font-size: .9em;
+    padding: .8em;
+    display: inline-block;
+}
 header {
     align-items: center;    
     background: url(../images/header-background.png);
@@ -46,11 +57,27 @@ header {
     // height: 200px;
 }
 .international-grid-container {
-    h2 {
-        font-size: 2em;
-    }
+    
     h3 {
         font-size: 1.1em;
         font-weight: 400;
     }
+}
+ul.primary-list {
+    padding-left: 30px;
+    li {
+        position: relative;
+    }
+    li:before {
+        color: #006b6e;
+        content: "\2022";
+        font-size: 1.5em; 
+        // padding-right: 1.1225em;
+        position: absolute;
+        top: -6px;
+        left: -22px;
+    }
+}
+.title-2 {
+    font-size: 2em;
 }
