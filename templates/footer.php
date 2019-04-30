@@ -7,7 +7,7 @@
             <i>Curarse en Salud</i>
         </div>
     </div>
-    <div class="copyright">
+    <div class="contaier grid-container copyright">
         @2019 Curarse en Salud. Todos los derechos reservados.
     </div>
 </footer>
