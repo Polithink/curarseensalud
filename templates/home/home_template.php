@@ -24,7 +24,7 @@
         </div>
     </div>
 </section>
-<section class="container">
+<section class="container logros">
     <div class="grid-container">
         <h3>Logros</h3>
         <p>
