@@ -14,7 +14,7 @@
         
         <div class="box-container">
             <p>
-                Somos una iniciativa ciudadana preocupada por la salud de 
+                Somos una <b>iniciativa ciudadana</b> preocupada por la salud de 
                 los mexicanos, que busca promover la cultura de la 
                 prevención a través de la vacunación y del fomento de 
                 hábitos higiénicos. Apoyada por un equipo 
@@ -39,36 +39,42 @@
         </p>
     </div>
 </section>
-<section class="container">
+<section class="container acciones">
     <div class="grid-container">
         <h2>Nuestras acciones</h2>
-            <ul>
-                <li>
-                    <p>  Generar campañas de promoción a la salud y a la vacunación de manera específica.</li></p>
-                    <img src="" alt="">
-                <li>
-                    <p>  Publicación de materiales educativos en el tema de vacunación.</li></p>
-                    <img src="" alt="">
-                <li>
-                    <p>  Difusión de información básica de a través de redes sociales.</li></p>
-                    <img src="" alt="">
-                <li>
-                    <p>  Organización de Foros y mesas de debate.</li></p>
-                    <img src="" alt="">
-                <li>
-                    <p>  Sesiones y talleres educativos.</li></p>
-                    <img src="" alt="">
-            </ul>
-            
-
+        <ul>
+            <li>
+                <img src="assets/images/acciones/generar.svg" alt="">
+                <p>Generar campañas de promoción a la salud y a la vacunación de manera específica.</p>
+            </li>             
+            <li>
+                <img src="assets/images/acciones/publicar.svg" alt="">
+                <p>Publicación de materiales educativos en el tema de vacunación.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/difundir.svg" alt="">
+                <p>Difusión de información básica de a través de redes sociales.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/organizar.svg" alt="">
+                <p>Organización de Foros y mesas de debate.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/sesiones.svg" alt="">
+                <p>Sesiones y talleres educativos.</p>
+            </li>
+        </ul>
     </div>
 </section>
 <section class="container">
     <section class="grid-container">
         <h2>Nuestro equipo</h2>
 
-        <div class="box-container">
-            <img src="" alt="">
+        <div class="box-container equipo">
+            
+            <div class="avatar-equipo-container">
+                <img src="assets/images/directora-general.png" alt="" class="avatar-equipo">
+            </div>
             <h3>Blanca E. Rodriguez Jaramillo</h3>
             <span class="title-photo">Directora General</span>
             <p>

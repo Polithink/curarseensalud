@@ -6,6 +6,7 @@ h5,
 h6 {
     font-weight: 900;
     font-family: 'Lato', sans-serif;
+    text-align: center;
 }
 body {
     font-family: 'Lato', sans-serif;
@@ -47,6 +48,17 @@ section {
 
 /* Clases */
 
+/* A */
+.acciones {
+    ul {
+        li {
+            p {
+                text-align: center;
+            }
+        }
+    }
+}
+/* B */
 .box-container {
     background-color: white;
     border-radius: 5px;
@@ -58,7 +70,27 @@ section {
     padding: .8em;
     display: inline-block;
 }
+/* E */ 
+.equipo {
+    position: relative;
+    margin-top: 75px;
+    padding-top: 78px;
+    .avatar-equipo-container {
+        position: absolute;
+        
+        top: -75px;
+        text-align: center;
+        display: inline; 
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        .avatar-equipo {
+            width: 150px;
+        }  
+    }
 
+}
+/* H */
 .header-dinamic-text {
     background-color: black;
     color: white;
@@ -82,6 +114,11 @@ section {
     background: url(../images/fondos/back-logros.svg);
     background-size: cover;
     color: white;
+    text-align: center;
+    h3 {
+        font-weight: 300;
+        font-size: 2em;
+    }
 }
 
 /* Q */
