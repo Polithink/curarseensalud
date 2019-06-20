@@ -81,7 +81,7 @@ section {
 }
 /* B */
 .box-container {
-    background-color: white;
+    background-color: rgba(255,255,255,.95);
     border-radius: 5px;
     box-shadow: 7px 10px 20px 0px rgba(0,0,0, .31);
     max-width: 100%;
@@ -109,7 +109,10 @@ section {
 }
 /* C */
 .contacto {
-
+    background: url(../images/fondos/contact-footer.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 120%;
 }
 // .contacto-email {
 //     display: block;
