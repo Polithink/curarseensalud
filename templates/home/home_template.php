@@ -112,15 +112,21 @@
                         <textarea name="textarea" class="materialize-textarea" id="message"></textarea>
                     </div>
                     <div class="input-field col s12 m12 l12">
-                        <label for="aviso">Este es mi segundo checkbox</label>
-                        <input type="checkbox" id="aviso" value=""> 
-                    </div>
-                    <div class="input-field col s12 m12 l12">
-                        
+                        <label for="tel">Teléfono:</label>
+                        <input type="tel" name="tel" id="tel">
                         
                     </div>
                     <div class="input-field col s12 m12 l12">
-                        <button>Enviar</button>
+                        <p>
+                            <label>
+                                <input type="checkbox" name="aviso"/>
+                                <span>He leído los <a href="#">términos y condiciones</a> y <a href="#">aviso de privacidad</a></span>
+                            </label>
+                        </p>
+                    </div>
+                    
+                    <div class="input-field col s12 m12 l12">
+                        <button class="btn-primary">Enviar</button>
                     </div>
                 </div>
                 
