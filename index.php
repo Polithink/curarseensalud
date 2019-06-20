@@ -16,9 +16,15 @@
 				include 'templates/home/home_template.php';
 				include 'templates/footer.php';
 				break;
+			
+			case "quienes":
+				include 'templates/nav.php';
+				include 'templates/quienes/quienes.php';
+				include 'templates/footer.php';
+				break;
 
 			default:
-				include 'templates/404.php';
+				include 'templates/404.php';				
                 break;
 		}
 	}

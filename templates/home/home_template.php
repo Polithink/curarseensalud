@@ -21,6 +21,7 @@
                 multidisciplinario con la finalidad de disminuir las 
                 enfermedades infectocontagiosas.
             </p>
+            <a href="./quienes" class="btn-primary">Conoce más</a>
         </div>
     </div>
 </section>
@@ -66,7 +67,7 @@
         </ul>
     </div>
 </section>
-<section class="container background-gray">
+<section class="container bg-gray">
     <div class="grid-container">
         <h2>Nuestro equipo</h2>
 
@@ -86,7 +87,7 @@
         </div>
 </div>
 </section>
-<section class="container contacto background-gray">
+<section class="container contacto bg-gray">
     <div class="grid-container">
         <h2>Contacto</h2>
         <div class="afer-line">

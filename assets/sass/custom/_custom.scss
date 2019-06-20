@@ -91,7 +91,7 @@ section {
     padding: .8em;
     display: inline-block;
 }
-.background-gray {
+.bg-gray {
     background-color: $gris-balanco;
 }
 .bold {
@@ -106,6 +106,7 @@ section {
     color: white;
     font-weight: bold;
     border: 0;
+    display: inline-block;
 }
 /* C */
 .contacto {
@@ -199,4 +200,50 @@ ul.primary-list {
         left: -22px;
     }
 }
+/* V */
+.valores-list {
+    // border: 1px solid red;
 
+    li {
+        color: white;
+        position: relative;
+        // border: 1px solid black;⁄
+        padding: 4em 0 2em 0;
+        box-sizing: border-box;
+        
+        p {
+            margin: 0;
+            z-index: 10;
+            width: 85%;
+            margin: 0 auto;
+        }
+        .valores-img {
+            position: absolute;
+            top: .25px;
+        }
+        
+    }
+    
+    li:nth-child(1) {
+        .valores-img {
+            z-index: -4;
+        }
+    }
+    li:nth-child(2) {
+        .valores-img {
+            z-index: -3;
+        }
+    }
+    li:nth-child(3) {
+        .valores-img {
+            z-index: -2;
+        }
+    }
+    li:nth-child(4) {
+        .valores-img {
+            z-index: -1;
+        }
+    }
+
+    
+}
