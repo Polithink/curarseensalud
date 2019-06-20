@@ -126,23 +126,23 @@ section {
         .top-line {
             width: 100%;
             height: 10px;
-            border: 1px solid green;
             position: absolute;
             top: 0;
+            background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
         }
         .middle-line {
             height: 10px;
-            border: 1px solid black;
             width: 100%;
             position: absolute;
             top: 20px;
+            background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
         }
         .bottom-line {
-            border: 1px solid pink;
             position: absolute;
             height: 10px;
             bottom: 0;
             width: 100%;
+            background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
         }
     }
 }
