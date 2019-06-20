@@ -49,8 +49,7 @@
 </section>
 <section class="container">
     <div class="grid-container">
-        <h4>Nuestos valores</h4>
-        
+        <h4>Nuestos valores</h4>        
     </div>
     <div class="grid-full-container">
         <ul class="valores-list">
