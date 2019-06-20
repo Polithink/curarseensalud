@@ -66,8 +66,8 @@
         </ul>
     </div>
 </section>
-<section class="container">
-    <section class="grid-container">
+<section class="container background-gray">
+    <div class="grid-container">
         <h2>Nuestro equipo</h2>
 
         <div class="box-container equipo">
@@ -76,7 +76,7 @@
                 <img src="assets/images/directora-general.png" alt="" class="avatar-equipo">
             </div>
             <h3>Blanca E. Rodriguez Jaramillo</h3>
-            <span class="title-photo">Directora General</span>
+            <span class="bold">Directora General</span>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
                 Consequatur nulla commodi minima minus deserunt vero quasi 
@@ -84,36 +84,47 @@
                 odio eius exercitationem. Optio, recusandae tempora.
             </p>
         </div>
-    </section>
+</div>
 </section>
-<section class="container">
-    <section class="grid-container">
+<section class="container contacto background-gray">
+    <div class="grid-container">
         <h2>Contacto</h2>
-        <a href="#mailto">info@curarseensalud.org</a>
+        <div class="afer-line">
+            <a href="#mailto" class="bold">info@curarseensalud.org</a>
+        </div>
+        
         <i>Facebook</i>
         <i>Twitter</i>
         <div class="form box-container">
             <form action="">
                 <h3>Ponte en contacto</h3>
-                <div class="input-container">
-                    <label for=""></label>
-                    <input type="text" name="" id="">
+                <div class="row">
+                    <div class="input-field input-field col s12 l12 m12">
+                        <label for="first_name">Nombre:</label>
+                        <input type="text" name="first_name" id="first_name">
+                    </div>
+                    <div class="input-field col s12 m12 l12">
+                        <label for="email">Coreo electrónico</label>
+                        <input type="text" name="email" id="email">                    
+                    </div>
+                    <div class="input-field col s12 m12 l12">
+                        <label for="message">Mensaje</label>
+                        <textarea name="textarea" class="materialize-textarea" id="message"></textarea>
+                    </div>
+                    <div class="input-field col s12 m12 l12">
+                        <label for="aviso">Este es mi segundo checkbox</label>
+                        <input type="checkbox" id="aviso" value=""> 
+                    </div>
+                    <div class="input-field col s12 m12 l12">
+                        
+                        
+                    </div>
+                    <div class="input-field col s12 m12 l12">
+                        <button>Enviar</button>
+                    </div>
                 </div>
-                <div class="input-container">
-                    <label for=""></label>
-                    <input type="text" name="" id="">
-                </div>
-                <div class="input-container">
-                    <textarea name="textarea" rows="10" cols="50">Write something here</textarea>
-                </div>
-                <div class="input-container">
-                    
-                    <input type="checkbox" id="cbox2" value="second_checkbox"> <label for="cbox2">Este es mi segundo checkbox</label>
-                </div>
-                <div class="input-container">
-                    <button>Enviar</button>
-                </div>
+                
             </form>
         </div>
-    </section>
+    </div>
 </section>
