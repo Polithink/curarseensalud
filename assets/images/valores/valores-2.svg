@@ -9,11 +9,11 @@
 	.st3{fill:url(#SVGID_4_);}
 </style>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="249.9985" y1="0" x2="249.9985" y2="301.2407">
-		<stop  offset="0.3042" style="stop-color:#27ECB8"/>
-		<stop  offset="1" style="stop-color:#A2D4CC"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250.0101" y1="2.855" x2="250.0101" y2="301.2407">
+		<stop  offset="8.527380e-02" style="stop-color:#4432F6"/>
+		<stop  offset="0.5419" style="stop-color:#2394B1"/>
+		<stop  offset="1" style="stop-color:#4AADAF"/>
 	</linearGradient>
-	<path class="st0" d="M500,8.7c0-2.2,0-6.5,0-8.7C467.3,26.2,131.9,57,9.1,5.5l-9.2-3.4L0,9.9c-1.7,60.8,1.7,220.7,0,281.5
-		c-0.1,4,6.4,3.2,6.4,3.2c162.1,10.2,333.7,12.9,493.5-23.3C500,271.3,501,80.6,500,8.7z"/>
+	<path class="st0" d="M500,2.9c-162,29-335.7,27-500,18.8v251.5c124.6,52.3,466.8,20.3,500-6.2C500,267,500.1,6.7,500,2.9z"/>
 </g>
 </svg>
