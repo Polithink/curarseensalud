@@ -10,11 +10,19 @@
     
   
   function hideShow() {
+
     if (menu.classList.contains('is-active')) {
       menu.classList.remove('is-active');
     } else {
       menu.classList.add('is-active');
     }
+
+    if (burgerButton.classList.contains('is-active')) {
+      burgerButton.classList.remove('is-active');
+    } else {
+      burgerButton.classList.add('is-active');
+    }
+
   }
 </script>
 <?php

@@ -6,11 +6,11 @@
     </div>
 </div>
 
-<nav>
+<nav class="">
 
     <ul>
         <li>
-            <a href="#">Inicio</a>
+            <a href="./inicio">Inicio</a>
         </li>
     </ul>
 </nav>
