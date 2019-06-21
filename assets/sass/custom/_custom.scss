@@ -121,7 +121,7 @@ section {
         height: 50px;
         width: 100%;
         position: relative;
-        // border: 1px solid brown;       
+        transition: .3s all;
     
         .top-line {
             width: 100%;
@@ -129,6 +129,7 @@ section {
             position: absolute;
             top: 0;
             background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
+            transition: .3s all;
         }
         .middle-line {
             height: 10px;
@@ -136,6 +137,7 @@ section {
             position: absolute;
             top: 20px;
             background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
+            transition: .3s all;
         }
         .bottom-line {
             position: absolute;
@@ -143,6 +145,7 @@ section {
             bottom: 0;
             width: 100%;
             background: linear-gradient(to right, $azul-fuerte, $verde-brillane);
+            transition: .3s all;
         }
     }
 }
