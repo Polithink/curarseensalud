@@ -1,14 +1,30 @@
 nav {    
     width: 100%;
     height: 100vh;
-    background-color: rgba(0,0,0,.5);
+    background: linear-gradient( 217deg, rgb(54, 151, 215),rgba(255, 0, 0, 0) 70.71%),
+        linear-gradient(127deg, rgb(65, 63, 243), rgba(0, 255, 0, 0) 70.71%),
+        linear-gradient(336deg, rgb(43, 218, 191), rgba(0, 0, 255, 0) 70.71%);
+
     position: fixed;
     transform: translateX(-100vw);
     transition: .3s all;
     top: 0;
     top: 0;
     z-index: 100;
-    border: 1px solid white;
+    ul {
+        box-sizing: border-box;
+        padding: 3em 1em 1em 1em;
+        text-align: center;
+        li {
+            padding: 1em 0;
+            a {
+                padding: 1em ;
+                color: white;
+                font-weight: bold;
+
+            }
+        }
+    }
 }
 nav.is-active {
     transform: translateX(0);

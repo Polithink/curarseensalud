@@ -12,5 +12,8 @@
         <li>
             <a href="./inicio">Inicio</a>
         </li>
+        <li>
+            <a href="./quienes">¿Quienes somos?</a>
+        </li>
     </ul>
 </nav>
