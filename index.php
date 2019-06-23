@@ -23,6 +23,12 @@
 				include 'templates/footer.php';
 				break;
 
+			 case "nosmueve":
+				 include 'templates/nav.php';
+				 include 'templates/mueve/mueve.php';
+				 include 'templates/footer.php';
+				 break;
+
 			default:
 				include 'templates/404.php';				
                 break;
