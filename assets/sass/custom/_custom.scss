@@ -92,10 +92,8 @@ section {
     margin: 1em 0;
 }
 .box-container {    
-    max-width: 100%;
-    width: 100%;
-    
-    
+    // max-width: 100%;
+    // width: 100%; 
 }
 .box-half-container {
     max-width: 50%;
@@ -228,6 +226,39 @@ section {
     h3 {
         font-weight: 300;
         font-size: 2em;
+    }
+}
+/* N */
+
+.mapa-nos-mueve {
+    border: 1px solid red;
+    position: relative;
+    .map1, .map2, .map3 {
+        position: absolute;
+        margin: 0;
+        padding: .5em;
+        p {
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+    .map1{
+        border: 1px solid green;
+        top: 2%;
+        left: 40%;
+    }
+    .map2 {
+        border: 1px solid purple;
+        bottom: 0;
+    }
+    .map3 {
+        border: 1px solid yellow;
+        left: 0;
+    }
+    .svg-map-nos-mueve {
+        width: 318px;
+        height: 396.86px;
     }
 }
 

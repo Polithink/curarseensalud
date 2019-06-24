@@ -3,18 +3,23 @@
         <h2>¿Qué Nos Mueve?</h2>
     </div>
     <div class="grid-full-container">
-        <div class="box-quarter-container">
-            <p>La necesidad de información en la población en general.</p>
+        <div class="mapa-nos-mueve">
+            <img src="assets/images/mapas/mapa-nos-mueve.svg" alt="" class="svg-map-nos-mueve">
+            <div class="box-container map1 w40">
+                <p>La necesidad de información en la población en general.</p>
+            </div>
+            <div class="box-container map2 w30">
+                <p>El avance de los movimientos que desincentivan la vacunación.</p>
+            </div>
+            <div class="box-container map3 w50">
+                <p>El resurgimiento de enfermedades que ya estaban eliminadas 
+                    en algunos países así como las consecuencias negativas 
+                    en la salud de quienes las padecen.
+                </p>
+            </div>
         </div>
-        <div class="box-quarter-container">
-            <p>El avance de los movimientos que desincentivan la vacunación.</p>
-        </div>
-        <div class="box-half-container">
-            <p>El resurgimiento de enfermedades que ya estaban eliminadas 
-                en algunos países así como las consecuencias negativas 
-                en la salud de quienes las padecen.
-            </p>
-        </div>
+
+       
     </div>
 </section>
 <section class="container logros">
