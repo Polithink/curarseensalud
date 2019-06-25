@@ -40,14 +40,35 @@
 <section class="container">
     <div class="grid-container">
         <h3>Educar y concientizar</h3>
+    </div>
+    <div class="grid-full-container">
+        
         <div class="educar-concientizar">
-            <ul>
-            <li>    Generar campañas de promoción a la salud y a la vacunación de manera específica.</li>
-            <li>    Publicación de materiales educativos en el tema de vacunación.</li>
-            <li>    Difusión de información básica de a través de redes sociales.</li>
-            <li>    Organización de Foros y mesas de debate.</li>
-            <li>    Sesiones y talleres educativos.</li>
+            <ul class="educar-list">
+                <li>
+                    <p>Generar campañas de promoción a la salud y a la vacunación de manera específica.</p>
+                    <img src="assets/images/valores/valores-1.svg" class="valores-img" alt="">
+                </li>
 
+                <li>
+                    <p>Publicación de materiales educativos en el tema de vacunación.</p>
+                    <img src="assets/images/valores/valores-2.svg" class="valores-img" alt="">
+                </li>
+
+                <li>
+                    <p>Difusión de información básica de a través de redes sociales.</p>
+                    <img src="assets/images/valores/valores-3.svg" class="valores-img" alt="">
+                </li>
+
+                <li>
+                    <p>Organización de Foros y mesas de debate.</p>
+                    <img src="assets/images/valores/valores-4.svg" class="valores-img" alt="">
+                </li>
+
+                <li>
+                    <p>Sesiones y talleres educativos.</p>
+                    <img src="assets/images/valores/valores-1.svg" class="valores-img" alt="">
+                </li>
             </ul>
         </div>
     </div>

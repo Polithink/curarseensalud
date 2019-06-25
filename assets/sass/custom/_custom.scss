@@ -198,6 +198,9 @@ section {
     }
 
 }
+.educar-concientizar {
+    overflow: hidden;
+}
 /* H */
 .header-dinamic-text {
     background-color: black;
@@ -290,14 +293,14 @@ ul.primary-list {
     }
 }
 /* V */
-.valores-list {
+.valores-list, .educar-list {
     // border: 1px solid red;
 
     li {
         color: white;
         position: relative;
         color: #fff;
-        padding: 2.7em 0 2em 0;
+        padding: 2.7em 0 1em 0;
         
         p {
             margin: 0;
@@ -314,20 +317,25 @@ ul.primary-list {
     
     li:nth-child(1) {
         .valores-img {
-            z-index: -4;
+            z-index: -5;
         }
     }
     li:nth-child(2) {
         .valores-img {
-            z-index: -3;
+            z-index: -4;
         }
     }
     li:nth-child(3) {
         .valores-img {
-            z-index: -2;
+            z-index: -3;
         }
     }
     li:nth-child(4) {
+        .valores-img {
+            z-index: -2;
+        }
+    }
+    li:nth-child(5) {
         .valores-img {
             z-index: -1;
         }
