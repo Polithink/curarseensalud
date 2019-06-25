@@ -74,20 +74,34 @@
     </div>
     <div class="grid-container">
         <h4>Promocionar medidas adicionales para evitar las enfermedades</h4>
-        <ol>
+        <ul>
             <li>
+                
                 <img src="assets/images/acciones/generar.svg" alt="">
-                <p>Campañas de hábitos higiénicos.</p>
+                
+                <div class="list-medidas">
+                    <span class="big-number">1</span>
+                    <p>Campañas de hábitos higiénicos.</p>
+                </div>
             </li>
             <li>
                 <img src="assets/images/nos-mueve/alimentacion.svg" alt="">
-                <p>Alimentación correcta.</p>
+                <div class="list-medidas">
+                    <p>Alimentación correcta.</p>
+                    <span class="big-number">2</span>
+                </div>
+                
             </li>
             <li>
                 <img src="assets/images/nos-mueve/antibioticos.svg" alt="">
-                <p>Uso adecuado de antibióticos.</p>
+                
+                <div class="list-medidas">
+                    <span class="big-number">3</span>    
+                    <p>Uso adecuado de antibióticos.</p>
+                </div>
+                
             </li>
-        </ol>
+        </ul>
     </div>
 </section>
 <section class="container tarea">
