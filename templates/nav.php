@@ -7,13 +7,16 @@
 </div>
 
 <nav class="">
-
+    <img src="assets/images/ces-logo-bco.png" alt="" class="logo-menu" >
     <ul>
         <li>
             <a href="./inicio">Inicio</a>
         </li>
         <li>
             <a href="./quienes">¿Quienes somos?</a>
+        </li>
+        <li>
+            <a href="./nosmueve">Lo que nos mueve</a>
         </li>
     </ul>
 </nav>

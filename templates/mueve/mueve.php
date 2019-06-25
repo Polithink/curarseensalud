@@ -75,8 +75,7 @@
     <div class="grid-container">
         <h4>Promocionar medidas adicionales para evitar las enfermedades</h4>
         <ul>
-            <li>
-                
+            <li>                
                 <img src="assets/images/acciones/generar.svg" alt="">
                 
                 <div class="list-medidas">
@@ -89,8 +88,7 @@
                 <div class="list-medidas">
                     <p>Alimentación correcta.</p>
                     <span class="big-number">2</span>
-                </div>
-                
+                </div>                
             </li>
             <li>
                 <img src="assets/images/nos-mueve/antibioticos.svg" alt="">
@@ -109,7 +107,7 @@
         <h3>Nuestra Tarea</h3>
         <div class="box-container w100">
             <h6>Seguimiento y monitoreo</h6>
-            <ul>
+            <ul class="list-green">
                   <li>Cumplimiento de normas básicas de salud.</li>
                   <li>Evaluación del cumplimiento de las estrategias de salud.</li>
                   <li>Mantenimiento de las normas preventivas de salud.</li>
