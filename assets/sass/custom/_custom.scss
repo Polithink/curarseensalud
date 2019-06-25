@@ -231,8 +231,9 @@ section {
 /* N */
 
 .mapa-nos-mueve {
-    border: 1px solid red;
     position: relative;
+    overflow: hidden;
+    text-align: center;
     .map1, .map2, .map3 {
         position: absolute;
         margin: 0;
@@ -242,19 +243,20 @@ section {
             margin: 0;
         }
     }
-
     .map1{
-        border: 1px solid green;
         top: 2%;
-        left: 40%;
+        left: 50%;
+        max-width: 165px;
     }
     .map2 {
-        border: 1px solid purple;
-        bottom: 0;
+        left: 10px;
+        top: 35%;
+        max-width: 165px;
     }
     .map3 {
-        border: 1px solid yellow;
-        left: 0;
+        bottom: 30px;
+        right: 10px;
+        max-width: 210px;
     }
     .svg-map-nos-mueve {
         width: 318px;

@@ -8,7 +8,7 @@
             <div class="box-container map1 w40">
                 <p>La necesidad de información en la población en general.</p>
             </div>
-            <div class="box-container map2 w30">
+            <div class="box-container map2 w40">
                 <p>El avance de los movimientos que desincentivan la vacunación.</p>
             </div>
             <div class="box-container map3 w50">
