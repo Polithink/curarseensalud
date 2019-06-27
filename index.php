@@ -28,6 +28,12 @@
 				 include 'templates/mueve/mueve.php';
 				 include 'templates/footer.php';
 				 break;
+				
+			case "panorama":
+				 include 'templates/nav.php';
+				 include 'templates/panorama/panorama_template.php';
+				 include 'templates/footer.php';
+				 break;
 
 			default:
 				include 'templates/404.php';				

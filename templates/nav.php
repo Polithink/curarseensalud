@@ -18,5 +18,8 @@
         <li>
             <a href="./nosmueve">Lo que nos mueve</a>
         </li>
+        <li>
+            <a href="./panorama">Panorama internacional</a>
+        </li>
     </ul>
 </nav>
