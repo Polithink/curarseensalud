@@ -7,7 +7,7 @@
 </div>
 
 <nav class="">
-    <img src="assets/images/ces-logo-bco.png" alt="" class="logo-menu" >
+    <!-- <img src="assets/images/ces-logo-bco.png" alt="" class="logo-menu"> -->
     <ul>
         <li>
             <a href="./inicio">Inicio</a>
