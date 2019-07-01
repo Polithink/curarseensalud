@@ -34,6 +34,12 @@
 				 include 'templates/panorama/panorama_template.php';
 				 include 'templates/footer.php';
 				 break;
+				
+			case "enfermedades-por-vector":
+				 include 'templates/nav.php';
+				 include 'templates/vector/vector_template.php';
+				 include 'templates/footer.php';
+				 break;
 
 			default:
 				include 'templates/404.php';				

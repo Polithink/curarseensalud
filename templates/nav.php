@@ -21,5 +21,8 @@
         <li>
             <a href="./panorama">Panorama internacional</a>
         </li>
+        <li>
+            <a href="./enfermedades-por-vector">Enfermedades por vector</a>
+        </li>
     </ul>
 </nav>

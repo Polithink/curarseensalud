@@ -7,10 +7,11 @@ h6 {
     font-weight: 700;
     font-family: 'Lato', sans-serif;    
 }
-h2 { font-size: 2.5em; }
-h3 { font-size: 2.1em; }
-h4 { font-size: 1.7em; }
-h5 { font-size: 1.3em; }
+h1 { font-size: 2.3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.7em; }
+h4 { font-size: 1.4em; }
+h5 { font-size: 1.1em; }
 h6 { font-size: 1em; }
 a {
     color: black;
@@ -300,6 +301,11 @@ section {
     }
 }
 /* N */
+/* O */
+/* P */
+.p-green {
+    color: $verde-opaco;
+}
 /* Q */
 
 .quienes-somos {
@@ -326,7 +332,7 @@ ul.primary-list {
     }
 }
 /* V */
-.valores-list, .educar-list {
+.valores-list, .educar-list, .list-waives {
     // border: 1px solid red;
 
     li {
@@ -340,8 +346,9 @@ ul.primary-list {
             z-index: 10;
             width: 85%;
             margin: 0 auto;
+            font-size: 16px;
         }
-        .valores-img {
+        img {
             position: absolute;
             top: .25px;
         }
@@ -349,27 +356,32 @@ ul.primary-list {
     }
     
     li:nth-child(1) {
-        .valores-img {
-            z-index: -5;
+        img {
+            z-index: -6;
         }
     }
     li:nth-child(2) {
-        .valores-img {
-            z-index: -4;
+        img {
+            z-index: -5;
         }
     }
     li:nth-child(3) {
-        .valores-img {
-            z-index: -3;
+        img {
+            z-index: -4;
         }
     }
     li:nth-child(4) {
-        .valores-img {
-            z-index: -2;
+        img {
+            z-index: -3;
         }
     }
     li:nth-child(5) {
-        .valores-img {
+        img {
+            z-index: -2;
+        }
+    }
+    li:nth-child(6) {
+        img {
             z-index: -1;
         }
     }

@@ -14,12 +14,12 @@
                 Gracias a los avances en materia de vacunación, se puede erradicar 
                 la poliomielitis a nivel mundial en los próximos años.
             </p>
-            <p>
+            <p class="p-green">
                 México tiene el compromiso a nivel mundial de aumentar sus tasas de 
                 vacunación por arriba del 95%. Solo uniendo esfuerzos podemos alcanzar 
                 los objetivos nacionales y mejorar la salud de los mexicanos.
             </p> 
-            <a href="./quienes" class="btn-primary">Conoce más</a>
+            
         </div>
     </div>
 </section>
@@ -46,7 +46,8 @@
         <ul class="collapsible">
 
             <li>
-                <div class="collapsible-header"><i class="material-icons">filter_drama</i>Vacunas infantiles</div>
+                <div class="collapsible-header">
+                    <i class="material-icons">chevron_right</i>Vacunas infantiles</div>
                 <div class="collapsible-body">
                     <span>Lorem ipsum dolor sit amet.</span>
                     <h6>
@@ -64,18 +65,33 @@
             </li>
 
             <li>
-                <div class="collapsible-header"><i class="material-icons">place</i>Vacunas en adolecentes</div>
+                <div class="collapsible-header"><i class="material-icons">chevron_right</i>Vacunas en adolecentes</div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
             </li>
 
             <li>
-                <div class="collapsible-header"><i class="material-icons"></i>Vacunas en adultos</div>
+                <div class="collapsible-header"><i class="material-icons">chevron_right</i>Vacunas en adultos</div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
             </li>
 
             <li>
-                <div class="collapsible-header"><i class="material-icons">V</i>acunas en adultos</div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                <div class="collapsible-header"><i class="material-icons">chevron_right
+</i>Vacunas en adultos mayores</div>
+                <div class="collapsible-body">
+                    <p>
+                        A partir de los 60 años, la vacunación en los adultos es importante 
+                        para prevenir enfermedades graves como neumonía, influenza y tétanos. 
+                    </p>
+                    <p>
+                        En caso de cursar con una enfermedad crónica debe considerar la 
+                        vacunación como medida estricta a llevar a cabo, sobre todo las 
+                        vacunas contra la influenza y neumonía.
+                    </p>
+                    <p>
+                        En América Latina las enfermedades respiratorias se encuentran 
+                        entre las primeras causas de muerte
+                    </p>
+                </div>
             </li>
         </ul>
     </div>
