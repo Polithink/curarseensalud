@@ -1,0 +1,19 @@
+.slider {
+    border: 1px solid red;
+    height: 300px;
+    display: flex;
+    width: 290px;
+    box-sizing: border-box;
+    overflow: auto;
+
+    .item-slider {
+        border: 1px solid green;
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        padding: 2em 1em;
+        text-align: center;
+        width: 290px;
+    }
+}

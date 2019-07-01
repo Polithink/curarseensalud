@@ -1,4 +1,4 @@
-<section class="container">
+<section class="container bg-gray">
     <div class="grid-container">
         <h1>Enfermedades por vectores</h1>
         <img src="assets/images/vector/insecto-persona.svg" alt="">
@@ -57,4 +57,51 @@
 
         </ul>
     </div>
+    
+</section>
+<section class="container bg-gray">
+    <div class="grid-container">
+        <h2>Protégete</h2>
+    </div>
+   <div class="container">
+       <img src="" alt="">
+       <div class="grid-full-container">
+       <div class="box-container">
+            <ul class="slider">                 
+                <li class="item-slider">
+                    Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.
+                </li>
+                <li class="item-slider">
+                    Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.
+                </li>
+                <li class="item-slider">
+                    Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.
+                </li>
+                <li class="item-slider">
+                    Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.
+                </li>
+                <li class="item-slider">
+                    Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.
+                </li>
+                <li class="item-slider">
+                    Mejorar la movilización y participación comunitarias para mantener el control del vector.
+                </li>
+                <li class="item-slider">
+                    Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.
+                </li>
+                <li class="item-slider">
+                    Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.
+                </li>
+
+            </ul>
+       </div>
+       </div>
+        
+       <div class="control">
+
+       </div>
+       <div class="control">
+
+       </div>
+   </div>
 </section>
