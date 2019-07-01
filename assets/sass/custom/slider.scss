@@ -1,19 +1,36 @@
+$slider-control-size: 50px;
+$slider-control-half: 25px;
+
 .slider {
     border: 1px solid red;
-    height: 300px;
-    display: flex;
-    width: 290px;
+    height: 300px;    
+    width: calc(95% - 50px);
     box-sizing: border-box;
-    overflow: auto;
+    position: relative;
+    margin: 0 auto;
 
     .item-slider {
         border: 1px solid green;
-        height: 300px;
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
-        padding: 2em 1em;
         text-align: center;
-        width: 290px;
+        width: 100%;
+        position: absolute;
+    }
+    .slider-right-control, .slider-left-control {
+        width: $slider-control-size;
+        height: $slider-control-size;
+        border-radius: 50%;
+        background-color: $rosa-pastel;
+        position: absolute;
+    }
+    .slider-right-control {
+        border: 1px solid yellow;
+        right: -25px;
+        top: calc(150px - 25px);
+
+    }
+    .slider-left-control {
+        border: 1px solid purple;
+        left: -25px;
+        top: calc(150px - 25px);
     }
 }
