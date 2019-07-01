@@ -70,8 +70,8 @@
             <li class="item-slider">
                 Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.
             </li>
-            <li class="item-slider">
-                <!-- Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.
+            <!--<li class="item-slider">
+                 Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.
             </li>
             <li class="item-slider">
                 Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.
@@ -92,10 +92,11 @@
                 Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.
             </li> -->
         <div class="slider-right-control">
-
+            <i class="material-icons medium">chevron_right</i>
+            
         </div>
         <div class="slider-left-control">
-            
+            <i class="material-icons medium">chevron_left</i>
         </div>
         </ul>
       
