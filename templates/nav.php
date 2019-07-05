@@ -24,5 +24,8 @@
         <li>
             <a href="./enfermedades-por-vector">Enfermedades por vector</a>
         </li>
+        <li>
+            <a href="./descargas">Descargas</a>
+        </li>
     </ul>
 </nav>

@@ -40,6 +40,12 @@
 				 include 'templates/vector/vector_template.php';
 				 include 'templates/footer.php';
 				 break;
+				
+			case "descargas":
+				 include 'templates/nav.php';
+				 include 'templates/biblioteca/biblioteca_template.php';
+				 include 'templates/footer.php';
+				 break;
 
 			default:
 				include 'templates/404.php';				
