@@ -64,40 +64,73 @@
         <h2>Protégete</h2>
     </div>
    <div class="container">
-       <img src="" alt="">
+       
        <div class="grid-full-container">
+           
        <ul class="slider">                 
             <li class="item-slider">
-                Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>            
+                <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
             </li>
-            <!--<li class="item-slider">
-                 Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.
-            </li>
+
             <li class="item-slider">
-                Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                 <p>Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.</p>
             </li>
-            <li class="item-slider">
-                Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.
-            </li>
-            <li class="item-slider">
-                Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.
-            </li>
-            <li class="item-slider">
-                Mejorar la movilización y participación comunitarias para mantener el control del vector.
-            </li>
-            <li class="item-slider">
-                Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.
-            </li>
-            <li class="item-slider">
-                Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.
-            </li> -->
-        <div class="slider-right-control">
-            <i class="material-icons medium">chevron_right</i>
             
-        </div>
-        <div class="slider-left-control">
-            <i class="material-icons medium">chevron_left</i>
-        </div>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Mejorar la movilización y participación comunitarias para mantener el control del vector.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>
+                <p>Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.</p>
+            </li>
+
+        <a href="#">
+            <div class="slider-right-control">
+                <i class="material-icons medium">chevron_right</i>
+                
+            </div>
+        </a>
+        <a href="#">
+            <div class="slider-left-control">
+                <i class="material-icons medium">chevron_left</i>
+            </div>
+        </a>        
+        
         </ul>
       
        </div>

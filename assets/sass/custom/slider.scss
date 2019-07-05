@@ -3,24 +3,50 @@ $slider-control-half: 25px;
 
 .slider {
     
-    height: 300px;    
+    height: 300px;
     width: calc(95% - 50px);
     box-sizing: border-box;
-    position: relative;
+    // position: relative;
     margin: 0 auto;
     background-color: rgba(255,255,255,.95);
     border-radius: 5px;
     box-shadow: 7px 10px 20px 0px rgba(0,0,0, .31);
     font-size: .9em;
-    padding: .8em;
-    // display: inline-block;   
+    display: flex;
+    align-items: center;
+    margin-top: 7em;
 
     .item-slider {
-        border: 1px solid green;
         text-align: center;
         width: 100%;
+        position: relative;
+        max-height: 300px;
+        padding: 1em 30px;
+        background-color: white;
+    }
+    .item-slider:nth-child(1) {display: initial}
+    .item-slider:nth-child(2) {display: none}
+    .item-slider:nth-child(3) {display: none}
+    .item-slider:nth-child(4) {display: none}
+    .item-slider:nth-child(5) {display: none}
+    .item-slider:nth-child(6) {display: none}
+    .item-slider:nth-child(7) {display: none}
+    .item-slider:nth-child(8) {display: none}
+
+    .slide-img-container {
+        
         position: absolute;
-        padding: 1em;
+        top: -170px;
+        width: 150px;
+        left: 50px;
+
+        .img-slide {
+            // position: absolute;
+            left: 0;
+            right: 0;
+            margin-left: auto;
+            margin-right: auto;
+        }
     }
     .slider-right-control, .slider-left-control {
         width: $slider-control-size;
@@ -31,6 +57,7 @@ $slider-control-half: 25px;
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: 100;
         i {
             color: white;
         }
