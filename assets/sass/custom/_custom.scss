@@ -107,6 +107,17 @@ section {
 .bg-gray {
     background-color: $gris-balanco;
 }
+.bg-button {
+    background: url(../images/vector/bg-button-white.svg);
+    width: 100%;
+    margin: 0 auto;
+    max-width: 300px;
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
 .bold {
     font-weight: 400;
 }
@@ -120,6 +131,16 @@ section {
     font-weight: bold;
     border: 0;
     display: inline-block;
+}
+.btn-light {
+    border: 2px solid #fff;
+    color: #fff;
+    margin: 1em 0;
+    padding: .5em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .burguer-menu-container {
     position: fixed;

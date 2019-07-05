@@ -138,3 +138,14 @@
        
    </div>
 </section>
+<section class="container bg-gray">
+    <div class="grid-container">
+        <div class="bg-button">
+            <a href="#" class="btn-light">
+
+                Más información
+                <i class="material-icons medium">trending_flat</i>
+            </a>
+        </div>
+    </div>
+</section>
