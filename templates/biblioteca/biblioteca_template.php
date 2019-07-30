@@ -102,6 +102,34 @@
     <div class="grid-container">
         <h2>Publicaciones</h2>
     </div>
+    <ul class="slider publicaciones">                 
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                    <div class="vector-bg">
+                        <img src="assets/images/fondos/publicaciones-icon-bg.svg" alt="" class="slide-bg">
+                    </div>
+                </div>
+                <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+            </li>
+            <li class="item-slider">
+                <div class="slide-img-container">
+                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                </div>            
+                <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+            </li>
+            <a href="#">
+                <div class="slider-right-control">
+                    <i class="material-icons medium">chevron_right</i>
+                    
+                </div>
+            </a>
+            <a href="#">
+                <div class="slider-left-control">
+                    <i class="material-icons medium">chevron_left</i>
+                </div>
+            </a>                
+        </ul>
 </section>
 
 <!-- HTML Gallery Snippet -->
