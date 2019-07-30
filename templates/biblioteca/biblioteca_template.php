@@ -111,12 +111,28 @@
                     </div>
                 </div>
                 <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+                <div class="download-slide">
+                    <div class="dowload-icon">
+                        <i>D</i>
+                    </div>
+                    <div class="download-link">
+                        <a href="#" class="">Descargar</a>
+                    </div>
+                </div>
             </li>
             <li class="item-slider">
                 <div class="slide-img-container">
                     <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
                 </div>            
                 <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+                <div class="download-slide">
+                    <div class="dowload-icon">
+                        <i>D</i>
+                    </div>
+                    <div class="download-link">
+                        <a href="#" class="">Descargar</a>
+                    </div>
+                </div>
             </li>
             <a href="#">
                 <div class="slider-right-control">

@@ -26,7 +26,7 @@ $slider-control-half: 25px;
         .vector-bg {
             position: absolute;
             width: 100%;
-            top: 0;
+            top: -70px;
             z-index: 1;
             .slide-bg {
                 
@@ -34,6 +34,12 @@ $slider-control-half: 25px;
                 right: 0;
                 z-index: 1;
             }
+        }
+        .download-slide {
+            display: flex;
+            flex-flow: row;
+            width: 100%;
+            justify-content: space-between;
         }
     }
     .item-slider:nth-child(1) {display: initial}
