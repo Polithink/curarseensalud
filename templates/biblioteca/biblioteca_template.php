@@ -87,6 +87,16 @@
     <div class="grid-container">
         <h2>Infografías</h2>
     </div>
+    <div class="grid-container">
+        <div class="infografias-container">
+            <div id="links">
+                <a href="assets/images/test-gde.jpeg" title="" class="img-galeria">
+                    <img src="assets/images/test.jpg" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+    
 </section>
 <section class="container">
     <div class="grid-container">
