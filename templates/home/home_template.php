@@ -89,49 +89,55 @@
 </section>
 <section class="container contacto bg-gray">
     <div class="grid-container">
-        <h2>Contacto</h2>
-        <div class="afer-line">
-            <a href="#mailto" class="bold">info@curarseensalud.org</a>
-        </div>
-        
-        <i>Facebook</i>
-        <i>Twitter</i>
-        <div class="form box-container">
-            <form action="">
-                <h3>Ponte en contacto</h3>
-                <div class="row">
-                    <div class="input-field input-field col s12 l12 m12">
-                        <label for="first_name">Nombre:</label>
-                        <input type="text" name="first_name" id="first_name">
-                    </div>
-                    <div class="input-field col s12 m12 l12">
-                        <label for="email">Coreo electrónico</label>
-                        <input type="text" name="email" id="email">                    
-                    </div>
-                    <div class="input-field col s12 m12 l12">
-                        <label for="message">Mensaje</label>
-                        <textarea name="textarea" class="materialize-textarea" id="message"></textarea>
-                    </div>
-                    <div class="input-field col s12 m12 l12">
-                        <label for="tel">Teléfono:</label>
-                        <input type="tel" name="tel" id="tel">
-                        
-                    </div>
-                    <div class="input-field col s12 m12 l12">
-                        <p>
-                            <label>
-                                <input type="checkbox" name="aviso"/>
-                                <span>He leído los <a href="#">términos y condiciones</a> y <a href="#">aviso de privacidad</a></span>
-                            </label>
-                        </p>
-                    </div>
-                    
-                    <div class="input-field col s12 m12 l12">
-                        <button class="btn-primary">Enviar</button>
-                    </div>
+        <div class="grid-contacto">
+            <div class="grid-item">
+                <h2>Contacto</h2>
+                <div class="afer-line">
+                    <a href="#mailto" class="bold">info@curarseensalud.org</a>
                 </div>
                 
-            </form>
+                <i>Facebook</i>
+                <i>Twitter</i>
+            </div>
+            
+            <div class="form box-container grid-item">
+                <form action="">
+                    <h3>Ponte en contacto</h3>
+                    <div class="row">
+                        <div class="input-field input-field col s12 l12 m12">
+                            <label for="first_name">Nombre:</label>
+                            <input type="text" name="first_name" id="first_name">
+                        </div>
+                        <div class="input-field col s12 m12 l12">
+                            <label for="email">Coreo electrónico</label>
+                            <input type="text" name="email" id="email">                    
+                        </div>
+                        <div class="input-field col s12 m12 l12">
+                            <label for="message">Mensaje</label>
+                            <textarea name="textarea" class="materialize-textarea" id="message"></textarea>
+                        </div>
+                        <div class="input-field col s12 m12 l12">
+                            <label for="tel">Teléfono:</label>
+                            <input type="tel" name="tel" id="tel">
+                            
+                        </div>
+                        <div class="input-field col s12 m12 l12">
+                            <p>
+                                <label>
+                                    <input type="checkbox" name="aviso"/>
+                                    <span>He leído los <a href="#">términos y condiciones</a> y <a href="#">aviso de privacidad</a></span>
+                                </label>
+                            </p>
+                        </div>
+                        
+                        <div class="input-field col s12 m12 l12">
+                            <button class="btn-primary">Enviar</button>
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
         </div>
+       
     </div>
 </section>
