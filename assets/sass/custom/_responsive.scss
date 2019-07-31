@@ -1,0 +1,33 @@
+@media only screen and (min-width:767px) {
+    .equipo {
+        padding-top: initial;
+        padding-left: 85px;
+        margin-left: 75px;
+        min-height: 240px;
+        max-width: 580px;
+
+        .avatar-equipo-container {
+            right: auto;
+            left: -75px;
+            top: calc(120px - 75px);
+            
+        }
+    }
+    .quienes-somos {
+        background-size: 65%;
+    }
+
+    .item-list {
+        text-align: center;
+        
+        li {
+            width: 300px;
+            display: inline-flex;
+            flex-flow: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin: 0;
+
+        }
+    }
+}

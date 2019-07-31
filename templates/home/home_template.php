@@ -43,7 +43,7 @@
 <section class="container acciones">
     <div class="grid-container">
         <h2>Nuestras acciones</h2>
-        <ul>
+        <ul class="item-list">
             <li>
                 <img src="assets/images/acciones/generar.svg" alt="">
                 <p>Generar campañas de promoción a la salud y a la vacunación de manera específica.</p>
