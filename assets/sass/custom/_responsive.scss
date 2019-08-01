@@ -57,6 +57,17 @@
         }
         
     }
+    .mision-container {
+        .item-container {
+            display: grid;
+            grid-template-columns: 120px 200px 1fr;
+            grid-gap: 2em;
+            align-self: center;
+            * {
+                align-self: center;
+            }
+        }
+    }
     .quienes-somos {
         
     }

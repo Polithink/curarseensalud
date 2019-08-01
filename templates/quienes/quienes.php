@@ -17,34 +17,50 @@
 </section>
 <section class="container">
     <div class="grid-container">
-        <h4>Nuestra misión</h4>
-        <img src="assets/images/quienes-somos/mision.svg" alt="">
-        <p>
-            <span class="bold"> Curarse en salud </span> tiene como reto el fomento de la vacunación y de 
-            medidas preventivas con el propósito de disminuir contagios, 
-            controlar brotes y romper la cadena de transmisión de las 
-            enfermedades o de mantener eliminadas aquellas enfermedades 
-            que por décadas ya no se presentan en el país mediante la 
-            sinergia entre actores públicos y privados con un fin común: 
-            la salud de los mexicanos.
-        </p>
-        <h4>Visión</h4>
-        <img src="assets/images/quienes-somos/vision.svg" alt="">
-        <p>
-            Ser una asociación que proporcione herramientas útiles 
-            que sustenten los beneficios de la vacunación.
-        </p>
-        <h4>Objetivos</h4>
-        <img src="assets/images/quienes-somos/objetivos.svg" alt="">
-        <p>Difundir información relevante sobre las ventajas de 
-            mantener a la población con los esquemas de vacunación 
-            actualizados.
-        </p>
-        <p>
-            Hacer uso útil de la información generada en las 
-            instituciones oficiales y presentarla de manera 
-            gráfica para fomentar la vacunación.
-        </p>
+        <div class="mision-container">
+            <div class="item-container">
+                <h4>Nuestra misión</h4>
+                <img src="assets/images/quienes-somos/mision.svg" alt="">
+                <p>
+                    <span class="bold"> Curarse en salud </span> tiene como reto el fomento de la vacunación y de 
+                    medidas preventivas con el propósito de disminuir contagios, 
+                    controlar brotes y romper la cadena de transmisión de las 
+                    enfermedades o de mantener eliminadas aquellas enfermedades 
+                    que por décadas ya no se presentan en el país mediante la 
+                    sinergia entre actores públicos y privados con un fin común: 
+                    la salud de los mexicanos.
+                </p>
+            </div>
+            <div class="item-container">
+                <h4>Visión</h4>
+                <img src="assets/images/quienes-somos/vision.svg" alt="">
+                <p>
+                    Ser una asociación que proporcione herramientas útiles 
+                    que sustenten los beneficios de la vacunación.
+                </p>
+            </div>
+            <div class="item-container">
+                <h4>Objetivos</h4>
+                <img src="assets/images/quienes-somos/objetivos.svg" alt="">
+                <div class="mision-paragraph">
+                    <p>Difundir información relevante sobre las ventajas de 
+                        mantener a la población con los esquemas de vacunación 
+                        actualizados.
+                    </p>
+                    <p>
+                        Hacer uso útil de la información generada en las 
+                        instituciones oficiales y presentarla de manera 
+                        gráfica para fomentar la vacunación.
+                    </p>
+                </div>
+                
+            </div>
+
+        </div>
+        
+        
+       
+       
     </div>
 </section>
 <section class="container">
