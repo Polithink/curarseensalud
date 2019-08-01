@@ -104,8 +104,11 @@
 </section>
 <section class="container tarea">
     <div class="grid-container">
-        <h3>Nuestra Tarea</h3>
-        <div class="box-container w100">
+        <div class="grid-tarea">
+            <div class="item-grid">
+                <h3>Nuestra Tarea</h3>
+            </div>
+            <div class="box-container w100">
             <h6>Seguimiento y monitoreo</h6>
             <ul class="list-green">
                   <li>Cumplimiento de normas básicas de salud.</li>
@@ -119,5 +122,8 @@
 
                 </ul>
         </div>
+        </div>
+       
+        
     </div>
 </section>
