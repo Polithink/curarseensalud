@@ -27,7 +27,8 @@
 <section class="container acciones">
     <div class="grid-container">
         <h5>Las vacunas en cifras</h5>
-        <ul class="list-green">
+        <!-- <ul class="list-green"> -->
+        <ul class="list-timeline">
             <li>Cada año se previenen entre 2.5 a 3 millones de muertes gracias a las vacunas.  </li>
             <li>La Organización Mundial de la Salud destaca que se podrían salvar 1.5 millones de vidas más si se mejora la cobertura de vacunación en todos los países. </li>
             <li>La tasa de vacunación en la población infantil se ha estancado en el 86%.</li>
