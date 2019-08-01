@@ -32,7 +32,7 @@
                 </p>
             </div>
             <div class="item-container">
-                <h4>Visión</h4>
+                <h4 class="">Visión</h4>
                 <img src="assets/images/quienes-somos/vision.svg" alt="">
                 <p>
                     Ser una asociación que proporcione herramientas útiles 
@@ -65,7 +65,7 @@
 </section>
 <section class="container">
     <div class="grid-container">
-        <h4>Nuestos valores</h4>        
+        <h4 class="center-align">Nuestos valores</h4>        
     </div>
     <div class="grid-full-container">
         <ul class="valores-list">
