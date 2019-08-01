@@ -39,7 +39,7 @@
 </section>
 <section class="container">
     <div class="grid-container">
-        <h3>Educar y concientizar</h3>
+        <h3 class="center-align">Educar y concientizar</h3>
     </div>
     <div class="grid-full-container">
         
@@ -74,7 +74,7 @@
     </div>
     <div class="grid-container">
         <h4>Promocionar medidas adicionales para evitar las enfermedades</h4>
-        <ul>
+        <ul class="promocionar-list">
             <li>                
                 <img src="assets/images/acciones/generar.svg" alt="">
                 
