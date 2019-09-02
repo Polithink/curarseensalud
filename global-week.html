@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Curarse en Salud</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/gallery/blueimp-gallery.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/ces.css">
+</head>
+<body><img src="assets/images/iframe-oms/global-week-01.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-02.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-03.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-04.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-05.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-06.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-07.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-08.jpg" alt="" class="responsive-img">
+<img src="assets/images/iframe-oms/global-week-09.jpg" alt="" class="responsive-img"><script src="scr/js/bin/materialize.min.js"></script>
+<script>
+
+  const menu = document.querySelector('nav');
+  // console.log(menu);
+  const burgerButton = document.querySelector('#burger-menu');
+  // console.log(burgerButton);
+
+  burgerButton.addEventListener('click', hideShow)
+    
+  
+  function hideShow() {
+
+    if (menu.classList.contains('is-active')) {
+      menu.classList.remove('is-active');
+    } else {
+      menu.classList.add('is-active');
+    }
+
+    if (burgerButton.classList.contains('is-active')) {
+      burgerButton.classList.remove('is-active');
+    } else {
+      burgerButton.classList.add('is-active');
+    }
+
+  }
+</script>
+
+</body></html>
