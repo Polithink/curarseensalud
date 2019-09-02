@@ -46,6 +46,12 @@
 				 include 'templates/biblioteca/biblioteca_template.php';
 				 include 'templates/footer.php';
 				 break;
+				
+			case "global-week":
+				//  include 'templates/nav.php';
+				 include 'templates/global-week/global-week.php';
+				//  include 'templates/footer.php';
+				 break;
 
 			default:
 				include 'templates/404.php';				
