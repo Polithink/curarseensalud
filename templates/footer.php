@@ -3,7 +3,7 @@
         <div class="footer-contacto">
         </div>
         <div class="footer-social-links">
-            <i>Twitter</i>
+            <i class="fi flaticon-twitter"></i>
             <i>Curarse en Salud</i>
         </div>
     </div>
