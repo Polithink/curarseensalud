@@ -3,9 +3,18 @@
     <div class="header-dinamic-text" id="dinamic-text">
         <p>Las vacunas salvan vidas</p>
     </div>
-    <div class="social-icons">
-        <i>Facebook</i>
-        <i>Twitter</i>
+    <div class="header-social-icons">
+    
+        <a href="https://twitter.com/curarseensalud" target="_blank">
+        <i class="fi-w flaticon-twitter"></i>
+        </a>
+        <a href="https://www.facebook.com/CurarseEnSalud/" target="_blank">
+            <i class="fi-w flaticon-social-media"></i>
+        </a>
+        <a href="http://m.me/CurarseEnSalud/" target="_blank">
+            <i class="fi-w flaticon-facebook"></i>
+        </a>
+                
     </div>
 </header>
 <section class="container quienes-somos">
@@ -96,8 +105,17 @@
                     <a href="#mailto" class="bold">info@curarseensalud.org</a>
                 </div>
                 
-                <i>Facebook</i>
-                <i>Twitter</i>
+                <div class="contact-socila-icons">
+                    <a href="https://twitter.com/curarseensalud" target="_blank">
+                    <i class="fi flaticon-twitter"></i>
+                    </a>
+                    <a href="https://www.facebook.com/CurarseEnSalud/" target="_blank">
+                        <i class="fi flaticon-social-media"></i>
+                    </a>
+                    <a href="http://m.me/CurarseEnSalud/" target="_blank">
+                        <i class="fi flaticon-facebook"></i>
+                    </a>
+                </div>
             </div>
             
             <div class="form box-container grid-item">

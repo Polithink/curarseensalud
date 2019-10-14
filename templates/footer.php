@@ -3,8 +3,16 @@
         <div class="footer-contacto">
         </div>
         <div class="footer-social-links">
-            <i class="fi flaticon-twitter"></i>
-            <i>Curarse en Salud</i>
+            <p>Síguenos en nuestras redes sociales:</p>
+            <a href="https://twitter.com/curarseensalud" target="_blank">
+                <i class="fi-w flaticon-twitter"></i>
+            </a>
+            <a href="https://www.facebook.com/CurarseEnSalud/" target="_blank">
+                <i class="fi-w flaticon-social-media"></i>
+            </a>
+            <a href="http://m.me/CurarseEnSalud/" target="_blank">
+                <i class="fi-w flaticon-facebook"></i>
+            </a>
         </div>
     </div>
     <div class="contaier grid-container copyright">

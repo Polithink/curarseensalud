@@ -22,7 +22,7 @@
         }
       }
       
-    .fi:before{
+    .fi:before, .fi-w:before{
     display: inline-block;
     font-family: "Flaticon";
     font-style: normal;
@@ -32,9 +32,18 @@
     text-decoration: inherit;
     text-rendering: optimizeLegibility;
     text-transform: none;
+    font-size: 40px;
+    margin: .5rem;
+    // color: white;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
+    }
+    .fi {
+        color: black;
+    }
+    .fi-w {
+        color: white;
     }
       
     .flaticon-facebook:before { content: "\f100"; }
