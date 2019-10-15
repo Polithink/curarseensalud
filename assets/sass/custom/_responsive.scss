@@ -1,3 +1,8 @@
+// @media only screen and (max-width:766px) {
+//     .educar-concientizar {
+//         width: 100%;
+//     }    
+// }
 @media only screen and (min-width:767px) {
     .equipo {
         padding-top: initial;
@@ -103,6 +108,9 @@
             }
         }
         
+    }
+    .educar-concientizar {
+        width: 85%;
     }
     .grid-contacto {
         display: grid;
