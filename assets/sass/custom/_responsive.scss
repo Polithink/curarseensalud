@@ -15,7 +15,7 @@
     }
     .educar-concientizar {
         margin: 0 auto;
-        width: 85%;
+        // width: 85%;
         .educar-list {
             li {
                 border-left: 5px solid $verde-brillane;
@@ -69,6 +69,9 @@
     
     .valores-list, .educar-list {
         overflow: hidden;
+        // width: 85%;
+        margin: 0 auto;
+        max-width: 1200px;
         li {
             padding-top: 5em;
         }
@@ -146,4 +149,7 @@
             }
         }
     }
+}
+@media only screen and (min-width:1200px) {
+
 }
