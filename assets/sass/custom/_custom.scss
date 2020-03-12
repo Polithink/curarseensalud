@@ -334,11 +334,52 @@ section {
     border-radius: 50%;
 }
 .list-sintomas {
+    
     li {
+        // border: ;
+        position: relative;
+        padding-left: 1em;
+        padding: 1em;
+        padding-bottom: 1.5em;
+        padding-top: 0;
+        
         p {
             font-size: 1em !important;
             font-weight: 400;
+            margin: 0;
         }
+        
+    }
+    li:nth-child(1) {
+        border-left: 5px solid #ffeb3b;
+    }
+    li:nth-child(2) {
+        border-left: 5px solid #ffc14e;
+    }
+    li:nth-child(3) {
+        border-left: 5px solid #f8954d;;
+    }
+    li:nth-child(4) {
+        border-left: 5px solid #f37b4c;
+    }
+    li:nth-child(5) {
+        border-left: 5px solid #f06a4b;
+    }
+    li:nth-child(6) {
+        // border-left: 5px solid #ef4b4b;
+        border-left: 5px solid rgba(255,255,255,0);
+    }
+    li:before{
+        border: 1px solid #585656;
+        border-radius: 50%;
+        content: " ";
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        background-color: white;
+        left: -15px;
+        top: 0;
+
     }
     
     

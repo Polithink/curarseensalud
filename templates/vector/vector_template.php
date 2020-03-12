@@ -28,31 +28,31 @@
         <h2>Síntomas</h2>
         
     </div>
-    <div class="grid-full-container">
-        <ul class="list-waives list-sintomas">
+    <div class="grid-container">
+        <ul class="list-sintomas">
             <li>
                 <p>Fiebre elevada (40º ).</p>
-                <img src="assets/images/sintomas/sintomas1.svg" alt="">
+                
             </li>
             <li>
                 <p>Dolor de cabeza muy intenso.</p>
-                <img src="assets/images/sintomas/sintomas2.svg" alt="">
+                
             </li>
             <li>
                 <p>Dolor detrás de los ojos.</p>
-                <img src="assets/images/sintomas/sintomas3.svg" alt="">
+                
             </li>
             <li>
                 <p>Dolores musculares y articulares</p>
-                <img src="assets/images/sintomas/sintomas4.svg" alt="">
+                
             </li>
             <li>
                 <p>Nauseas y vómitos</p>
-                <img src="assets/images/sintomas/sintomas5.svg" alt="">
+                
             </li>
             <li>
                 <p>Agrandamiento de los ganglios linfáticos o salpullido.</p>
-                <img src="assets/images/sintomas/sintomas6.svg" alt="">
+                
             </li>
 
         </ul>
