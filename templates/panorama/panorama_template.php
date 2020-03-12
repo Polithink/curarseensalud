@@ -103,9 +103,18 @@
         <div class="afer-line">
             <a href="#mailto" class="bold">info@curarseensalud.org</a>
         </div>
-        
-        <i>Facebook</i>
-        <i>Twitter</i>
+        <div class="footer-social-links">
+            <p>Síguenos en nuestras redes sociales:</p>
+            <a href="https://twitter.com/curarseensalud" target="_blank">
+                <i class="fi flaticon-twitter"></i>
+            </a>
+            <a href="https://www.facebook.com/CurarseEnSalud/" target="_blank">
+                <i class="fi flaticon-social-media"></i>
+            </a>
+            <a href="http://m.me/CurarseEnSalud/" target="_blank">
+                <i class="fi flaticon-facebook"></i>
+            </a>
+        </div>
         <div class="form box-container">
             <form action="">
                 <h3>Ponte en contacto</h3>

@@ -29,7 +29,7 @@
         
     </div>
     <div class="grid-full-container">
-        <ul class="list-waives">
+        <ul class="list-waives list-sintomas">
             <li>
                 <p>Fiebre elevada (40º ).</p>
                 <img src="assets/images/sintomas/sintomas1.svg" alt="">
@@ -67,7 +67,7 @@
        
        <div class="grid-full-container">
            
-       <ul class="slider">                 
+       <ul class="slider">
             <li class="item-slider">
                 <div class="slide-img-container">
                     <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
