@@ -29,12 +29,12 @@
         <h5>Las vacunas en cifras</h5>
         <!-- <ul class="list-green"> -->
         <ul class="list-timeline">
-            <li>Cada año se previenen entre 2.5 a 3 millones de muertes gracias a las vacunas.  </li>
-            <li>La Organización Mundial de la Salud destaca que se podrían salvar 1.5 millones de vidas más si se mejora la cobertura de vacunación en todos los países. </li>
+            <li><span class="bold">Cada año se previenen entre 2.5 a 3 millones de muertes </span> gracias a las vacunas.  </li>
+            <li>La Organización Mundial de la Salud destaca que se <span class="bold"> podrían salvar 1.5 millones de vidas más </span> si se mejora la cobertura de vacunación en todos los países. </li>
             <li>La tasa de vacunación en la población infantil se ha estancado en el 86%.</li>
-            <li>En el mundo aún hay 19.5 millones de lactantes sin vacunar.</li>
+            <li>En el mundo aún <span class="bold"> hay 19.5 millones de lactantes sin vacunar</span>.</li>
             <li>Por cada dólar que se invierte en vacunas, se ahorran 44. </li>
-            <li>Para mejorar la calidad de vida de las personas se debe mantener una cobertura de vacunación por arriba del 95%.</li>
+            <li>Para mejorar la calidad de vida de las personas <span class="bold"> se debe mantener una cobertura de vacunación por arriba del 95%</span>.</li>
 
         </ul>
     </div>
@@ -66,7 +66,7 @@
             </li>
 
             <li>
-                <div class="collapsible-header"><i class="material-icons">chevron_right</i>Vacunas en adolecentes</div>
+                <div class="collapsible-header"><i class="material-icons">chevron_right</i>Vacunas en adolescentes</div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
             </li>
 
@@ -76,8 +76,7 @@
             </li>
 
             <li>
-                <div class="collapsible-header"><i class="material-icons">chevron_right
-</i>Vacunas en adultos mayores</div>
+                <div class="collapsible-header"><i class="material-icons">chevron_right</i>Vacunas en adultos mayores</div>            
                 <div class="collapsible-body">
                     <p>
                         A partir de los 60 años, la vacunación en los adultos es importante 

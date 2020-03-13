@@ -459,13 +459,17 @@ ul.primary-list {
         position: relative;
         color: #fff;
         padding: 2em 0 1em 0;
+
+        h3 {
+            margin-left: 1em;
+        }
         
         p {
             margin: 0;
             z-index: 10;
             width: 85%;
             margin: 0 auto;
-            font-size: 16px;
+            font-size: 1em;
         }
         img {
             position: absolute;

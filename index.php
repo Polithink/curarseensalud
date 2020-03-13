@@ -59,6 +59,7 @@
 		}
 	}
 	else{
+		$pagina = "inicio";
 		include 'templates/nav.php';
 		include 'templates/home/home_template.php';
 		include 'templates/footer.php';

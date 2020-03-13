@@ -41,7 +41,32 @@
     <div class="grid-container">
         <h3 class="center-align">Educar y concientizar</h3>
     </div>
-    <div class="grid-full-container">
+    <div class="grid-container">
+        
+        <ul class="item-list">
+            <li>
+                <img src="assets/images/acciones/generar.svg" alt="">
+                <p>Generar campañas de promoción a la salud y a la vacunación de manera específica.</p>
+            </li>             
+            <li>
+                <img src="assets/images/acciones/publicar.svg" alt="">
+                <p>Publicación de materiales educativos en el tema de vacunación.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/difundir.svg" alt="">
+                <p>Difusión de información básica de a través de redes sociales.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/organizar.svg" alt="">
+                <p>Organización de Foros y mesas de debate.</p>
+            </li>                
+            <li>
+                <img src="assets/images/acciones/sesiones.svg" alt="">
+                <p>Sesiones y talleres educativos.</p>
+            </li>
+        </ul>
+    </div>
+    <!-- <div class="grid-full-container">
         
         <div class="educar-concientizar">
             <ul class="educar-list">
@@ -71,7 +96,7 @@
                 </li>
             </ul>
         </div>
-    </div>
+    </div> -->
     <div class="grid-container">
         <h4>Promocionar medidas adicionales para evitar las enfermedades</h4>
         <ul class="promocionar-list">

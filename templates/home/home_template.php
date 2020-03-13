@@ -84,7 +84,7 @@
             <div class="row">
                 <form id="newsletterForm" class="col s12">
                     <div class="row">
-                        <div class="input-field col s12 m10 l10">
+                        <div class="input-field col s12 m9 l9">
                             <i class="material-icons prefix">email</i>
                             <input id="email" type="email" class="validate">
                             <label for="email">Escribe tu email</label>
@@ -175,10 +175,7 @@
                 </div>
                 <div class="collapsible-body">
                     <p>
-                        Las vacunas tienen un control muy estricto y es muy poco probable que algún niño 
-                        presente reacción seria, sin embargo se recomienda que permanezca los siguientes 
-                        15 a 30 minutos en la sala de espera para vigilancia de posibles reacciones 
-                        adversas inmediatas (según lo establece el Manual de Vacunación 2017, Procedimiento para la aplicación de vacunas. P72)
+                        Acuda a los servicios de salud en cuanto le sea posible, lo más probable es que aún se la puedan aplicar.
                     </p>
                 </div>
             </li>
@@ -189,7 +186,10 @@
                 </div>
                 <div class="collapsible-body">
                     <p>
-                        Porque las vacunas previenen enfermedades graves en los niños, las cuales pueden dejar secuelas e incluso causar la muerte. 
+                        Las vacunas tienen un control muy estricto y es muy poco probable que algún niño presente reacción seria, 
+                        sin embargo se recomienda que permanezca los siguientes 15 a 30 minutos en la sala de espera para 
+                        vigilancia de posibles reacciones adversas inmediatas (según lo establece el Manual de Vacunación 2017, 
+                        Procedimiento para la aplicación de vacunas. P72)
                     </p>
                 </div>
             </li>
@@ -227,7 +227,7 @@
                 
                 <div class="contact-socila-icons">
                     <a href="https://twitter.com/curarseensalud" target="_blank">
-                    <i class="fi flaticon-twitter"></i>
+                        <i class="fi flaticon-twitter"></i>
                     </a>
                     <a href="https://www.facebook.com/CurarseEnSalud/" target="_blank">
                         <i class="fi flaticon-social-media"></i>

@@ -7,7 +7,7 @@
                 Somos una <b>iniciativa ciudadana</b> preocupada por la salud de 
                 los mexicanos, que busca promover la cultura de la 
                 prevención a través de la vacunación y del fomento de 
-                hábitos higiénicos. Apoyada por un equipo 
+                hábitos saludables. Apoyada por un equipo 
                 multidisciplinario con la finalidad de disminuir las 
                 enfermedades infectocontagiosas.
             </p>
@@ -70,31 +70,35 @@
     <div class="grid-full-container">
         <ul class="valores-list">
             <li>
+                <h3>Respeto</h3>
                 <p>
-                    <span class="bold">Respeto:</span> Curarse en Salud respeta las 
+                    Curarse en Salud respeta las 
                     ideologías de quienes nos leen y nos visitan.
                 </p>
                 <img src="assets/images/valores/valores-1.svg" class="valores-img" alt="">
             </li>
             <li>
+                <h3>Sensibilidad</h3>
                 <p>
-                    <span class="bold">Sensibilidad:</span> La información que publicamos es 
+                    La información que publicamos es 
                     solo con fines informativos, sin rebasar el 
                     derecho de la individualidad.
                 </p>
                 <img src="assets/images/valores/valores-2.svg" class="valores-img" alt="">
             </li>
             <li>
+                <h3>Honestidad</h3>
                 <p>
-                    <span class="bold">Honestidad:</span> Siempre compartimos información 
+                    Siempre compartimos información 
                     generada en fuentes oficiales nacionales e 
                     internacionales de salud.
                 </p>
                 <img src="assets/images/valores/valores-3.svg" class="valores-img" alt="">
             </li>
             <li>
+                <h3>Compromiso</h3>
                 <p>
-                    <span class="bold">Compromiso:</span> Generamos sinergia con otras 
+                    Generamos sinergia con otras 
                     asociaciones de salud así como autoridades 
                     para buscar la mejor manera de difundir 
                     información veraz y oportuna para mejorar la 
