@@ -67,7 +67,7 @@
        
        <div class="grid-full-container">
            
-       <ul class="slider">
+       <ul class="my-slider slider">
             <li class="item-slider">
                 <div class="slide-img-container">
                     <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
