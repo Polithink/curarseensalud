@@ -27,8 +27,31 @@
 
   }
 </script>
+
+<?php 
+    ## JS files
+    switch ($pagina) {
+
+      case 'inicio':
+        echo '<script src="scr/js/inicio/inicio.js"></script>';
+        break;
+
+      case 'descargas':
+        echo '<script src="scr/js/descargas/descargas.js"></script>';
+        break;
+      
+      case 'panorama':
+        echo '<script src="scr/js/panorama/panorama.js"></script>';
+        break;
+      
+      default:
+        echo '<script src="scr/js/inicio/inicio.js"></script>';
+        break;
+    }
+  ?>
+
 <?php
-        if (isset($_GET['p'])) {
+        /*if (isset($_GET['p'])) {
 
             $path  = 'scr/js/'.$pagina;
 
@@ -47,7 +70,7 @@
 
             }
 
-        }
+        }*/
 
     ?>
     <script type="module">
