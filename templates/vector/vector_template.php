@@ -65,74 +65,210 @@
     </div>
    <div class="container">
        
-       <div class="grid-full-container">
-           
-       <ul class="my-slider slider">
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>            
-                <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
-            </li>
+       <div class="grid-full-container slider__container">
 
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                 <p>Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.</p>
-            </li>
-            
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.</p>
-            </li>
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.</p>
-            </li>
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.</p>
-            </li>
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Mejorar la movilización y participación comunitarias para mantener el control del vector.</p>
-            </li>
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.</p>
-            </li>
-            <li class="item-slider">
-                <div class="slide-img-container">
-                    <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
-                </div>
-                <p>Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.</p>
-            </li>
+        <!-- <div class="">
+            <ul class="slider" class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                      <p>Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Mejorar la movilización y participación comunitarias para mantener el control del vector.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.</p>
+                 </li>
+             </ul>
+             <ul class="slider">
+                 <li class="item-slider">
+                     <div class="slide-img-container">
+                         <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                     </div>
+                     <p>Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.</p>
+                 </li>
+             </ul>
 
-        <a href="#">
-            <div class="slider-right-control">
-                <i class="material-icons medium">chevron_right</i>
-                
+        </div> -->
+
+            <div class="my-slider">
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Evitar que los mosquitos encuentren en donde depositar sus huevecillos modificando el entorno.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                            <p>Eliminar correctamente los desechos sólidos y los posibles hábitats artificiales.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Cubrir, vaciar y lavar cada semana los recipientes que se usan para almacenar agua de uso doméstico.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Aplicar insecticida a los recipientes destinados al almacenamiento de agua a la intemperie.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Utilizar protección personal en el hogar como mosquiteros en ventanas, usar ropa de manga larga, materiales tratados con insecticidas, uso de espirales y vaporizadores para alejar a los mosquitos.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Mejorar la movilización y participación comunitarias para mantener el control del vector.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Durante brotes epidémicos el control vectorial puede incluir aplicación de insecticidas mediante rociamiento.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div>
+
+                    <div class="slider-grid">
+                        <div class="item__container">
+                            <div class="slide__container-img">
+                                <img src="assets/images/vector/proteccion.svg" alt="" class="img-slide">
+                            </div>
+                            <div class="slider__text">
+                                <p>Vigilancia activa de los vectores para determinar la efectividad de las medidas de control.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>    
+               
             </div>
-        </a>
-        <a href="#">
-            <div class="slider-left-control">
-                <i class="material-icons medium">chevron_left</i>
+             <!--  -->
+             <div class="slider-controls" id="slider-controls">
+                 <div class="slider-left-control">
+                     <i class="material-icons medium">chevron_left</i>
+                </div>
+                <div class="slider-right-control">
+                    <i class="material-icons medium">chevron_right</i>
+                    
+                </div>
             </div>
-        </a>        
-        
-        </ul>
-      
+            <!--  -->
+
        </div>
         
        
