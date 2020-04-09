@@ -82,16 +82,17 @@
         <p>Recibe noticias y contenido sobre vacunación. ¡Infórmate!</p>
         <div class="acciones__newsletter--form">
             <div class="row">
-                <form id="newsletterForm" class="col s12">
+                <form id="newsletterForm" class="col s12 m12 l12">
                     <div class="row">
                         <div class="input-field col s12 m9 l9">
                             <i class="material-icons prefix">email</i>
                             <input id="email" type="email" class="validate">
                             <label for="email">Escribe tu email</label>
                             <!-- <span class="helper-text" data-error="wrong" data-success="right">E-mail</span> -->
+                            <button class="btn-primary center-align" id="buttonNewsletterForm">Suscribirme</button>
                         </div>
                         <div class="input-field col s12 m2 l2">
-                            <button class="btn-primary" id="buttonNewsletterForm">Suscribirme</button>
+                            
                         </div>
                     </div>
                 </form>

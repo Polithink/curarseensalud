@@ -5,7 +5,7 @@
         <div class="bottom-line"></div>
     </div>
 </div>
-<div class="header__nav">
+<div class="header__nav" id="header__nav">
     <div class="header__nav-container">
         <div class="header__nav-logo">
             <a href="./inicio">

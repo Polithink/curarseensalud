@@ -27,6 +27,7 @@
 
   }
 </script>
+<script src="scr/js/nav.js"></script>
 
 <?php 
     ## JS files
