@@ -1,4 +1,4 @@
-<section class="container">
+<section class="container pt-95">
     <div class="grid-container">
         <h2>¿Qué Nos Mueve?</h2>
     </div>

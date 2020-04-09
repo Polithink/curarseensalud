@@ -1,4 +1,4 @@
-<section class="container bg-circulos">
+<section class="container bg-circulos pt-95">
     <div class="grid-container">
         <h1>Biblioteca</h1>
         <p>Encuentra infografías y documentos relevantes para compartir.</p>

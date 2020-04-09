@@ -1,4 +1,4 @@
-<section class="container bg-gray">
+<section class="container bg-gray pt-95">
     <div class="grid-container">
         <h1>Enfermedades por vectores</h1>
         <img src="assets/images/vector/insecto-persona.svg" alt="">

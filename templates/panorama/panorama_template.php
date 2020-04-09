@@ -1,5 +1,5 @@
 
-<section class="container quienes-somos">
+<section class="container quienes-somos pt-95">
     <div class="grid-container">
         <h2 class="title-2">Panorama Internacional</h2>
         <h5>Enfermedades infectocontagiosas prevenibles por vacunación</h5>

@@ -1,4 +1,4 @@
-<section class="container quienes-somos bg-gray">
+<section class="container quienes-somos bg-gray pt-95">
     <div class="grid-container international-grid-container">
         <h2 class="title-2">¿Quiénes somos?</h2>
         
