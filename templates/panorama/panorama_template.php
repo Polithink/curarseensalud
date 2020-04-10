@@ -1,20 +1,20 @@
 
 <section class="container quienes-somos pt-95">
     <div class="grid-container">
-        <h2 class="title-2">Panorama Internacional</h2>
-        <h5>Enfermedades infectocontagiosas prevenibles por vacunación</h5>
+        <h2 class="title-2"  data-aos="fade-down">Panorama Internacional</h2>
+        <h5  data-aos="fade-down">Enfermedades infectocontagiosas prevenibles por vacunación</h5>
         <div class="box-container">
-            <p>
+            <p data-aos="fade-down">
                 La Organización Mundial de la Salud, señala que las principales causas de muerte 
                 infantil a nivel mundial son las neumonías u otras enfermedades 
                 respiratorias agudas y las enfermedades diarreicas ambas prevenibles 
                 mediante la vacunación. 
             </p>
-            <p>
+            <p data-aos="fade-down">
                 Gracias a los avances en materia de vacunación, se puede erradicar 
                 la poliomielitis a nivel mundial en los próximos años.
             </p>
-            <p class="p-green">
+            <p class="p-green" data-aos="fade-down">
                 México tiene el compromiso a nivel mundial de aumentar sus tasas de 
                 vacunación por arriba del 95%. Solo uniendo esfuerzos podemos alcanzar 
                 los objetivos nacionales y mejorar la salud de los mexicanos.
@@ -26,15 +26,15 @@
 
 <section class="container acciones">
     <div class="grid-container">
-        <h5>Las vacunas en cifras</h5>
+        <h5  data-aos="fade-down">Las vacunas en cifras</h5>
         <!-- <ul class="list-green"> -->
         <ul class="list-timeline">
-            <li><span class="bold">Cada año se previenen entre 2.5 a 3 millones de muertes </span> gracias a las vacunas.  </li>
-            <li>La Organización Mundial de la Salud destaca que se <span class="bold"> podrían salvar 1.5 millones de vidas más </span> si se mejora la cobertura de vacunación en todos los países. </li>
-            <li>La tasa de vacunación en la población infantil se ha estancado en el 86%.</li>
-            <li>En el mundo aún <span class="bold"> hay 19.5 millones de lactantes sin vacunar</span>.</li>
-            <li>Por cada dólar que se invierte en vacunas, se ahorran 44. </li>
-            <li>Para mejorar la calidad de vida de las personas <span class="bold"> se debe mantener una cobertura de vacunación por arriba del 95%</span>.</li>
+            <li data-aos="fade-down"><span class="bold">Cada año se previenen entre 2.5 a 3 millones de muertes </span> gracias a las vacunas.  </li>
+            <li data-aos="fade-down">La Organización Mundial de la Salud destaca que se <span class="bold"> podrían salvar 1.5 millones de vidas más </span> si se mejora la cobertura de vacunación en todos los países. </li>
+            <li data-aos="fade-down">La tasa de vacunación en la población infantil se ha estancado en el 86%.</li>
+            <li data-aos="fade-down">En el mundo aún <span class="bold"> hay 19.5 millones de lactantes sin vacunar</span>.</li>
+            <li data-aos="fade-down">Por cada dólar que se invierte en vacunas, se ahorran 44. </li>
+            <li data-aos="fade-down">Para mejorar la calidad de vida de las personas <span class="bold"> se debe mantener una cobertura de vacunación por arriba del 95%</span>.</li>
 
         </ul>
     </div>
@@ -42,7 +42,7 @@
 
 <section class="container bg-gray">
     <div class="grid-container">
-        <h2>Esquemas de vacunación</h2>
+        <h2  data-aos="fade-down">Esquemas de vacunación</h2>
 
         <ul class="collapsible">
 
