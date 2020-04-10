@@ -11,15 +11,15 @@
     <div class="grid-container">
         <div class="infografias-container">
             <h4>Infografías sobre vacunación</h4>
-            <div id="links">
-                <a href="assets/images/infografias/vacunacion/vacunas-001.jpg" title="" class="img-galeria">
-                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-001.jpg" alt="">
+            <div id="links" class="grid-gallery">
+                <a href="assets/images/infografias/vacunacion/vacunas-001.jpg" title="" >
+                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-001.jpg" alt="" class="grid-gallery__image">
                 </a>
-                <a href="assets/images/infografias/vacunacion/vacunas-002.jpg" title="" class="img-galeria">
-                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-002.jpg" alt="">
+                <a href="assets/images/infografias/vacunacion/vacunas-002.jpg" title="" >
+                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-002.jpg" alt="" class="grid-gallery__image">
                 </a>
-                <a href="assets/images/infografias/vacunacion/vacunas-003.jpg" title="" class="img-galeria">
-                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-003.jpg" alt="">
+                <a href="assets/images/infografias/vacunacion/vacunas-003.jpg" title="" >
+                    <img src="assets/images/infografias/vacunacion-thumbnails/vacunas-003.jpg" alt="" class="grid-gallery__image">
                 </a>
             </div>
         </div>
