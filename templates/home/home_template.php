@@ -3,7 +3,7 @@
     <div class="header-dinamic-text" id="dinamic-text">
         <p>Las vacunas salvan vidas</p>
     </div>
-    <div class="header-social-icons">
+    <div class="header-social-icons" data-aos="fade-down">
     
         <a href="https://twitter.com/curarseensalud" target="_blank">
         <i class="fi-w flaticon-twitter"></i>
@@ -19,9 +19,9 @@
 </header>
 <section class="container quienes-somos">
     <div class="grid-container international-grid-container">
-        <h2 class="title-2">¿Quiénes somos?</h2>
+        <h2 class="title-2" data-aos="fade-down">¿Quiénes somos?</h2>
         
-        <div class="box-container">
+        <div class="box-container" data-aos="fade-down">
             <p>
                 Somos una <b>iniciativa ciudadana</b> preocupada por la salud de 
                 los mexicanos, que busca promover la cultura de la 
@@ -36,40 +36,40 @@
 </section>
 <section class="container logros">
     <div class="grid-container">
-        <h3>Logros</h3>
-        <p>
+        <h3 data-aos="fade-down">Logros</h3>
+        <p data-aos="fade-down">
             Generación sinergias con diversos actores de salud 
             pública para promover en conjunto la vacunación 
             como mejor herramienta costo-efectiva de salud para 
             el control y la eliminación de enfermedades prevenibles 
             por vacunación.
         </p>
-        <p>
+        <p data-aos="fade-down">
             Publicación de contenidos informativos en materia de prevención de enfermedades.
         </p>
     </div>
 </section>
 <section class="container acciones">
     <div class="grid-container">
-        <h2>Nuestras acciones</h2>
+        <h2 data-aos="fade-down">Nuestras acciones</h2>
         <ul class="item-list">
-            <li>
+            <li data-aos="fade-down">
                 <img src="assets/images/acciones/generar.svg" alt="">
                 <p>Generar campañas de promoción a la salud y a la vacunación de manera específica.</p>
             </li>             
-            <li>
+            <li data-aos="fade-down">
                 <img src="assets/images/acciones/publicar.svg" alt="">
                 <p>Publicación de materiales educativos en el tema de vacunación.</p>
             </li>                
-            <li>
+            <li data-aos="fade-down">
                 <img src="assets/images/acciones/difundir.svg" alt="">
                 <p>Difusión de información básica de a través de redes sociales.</p>
             </li>                
-            <li>
+            <li data-aos="fade-down">
                 <img src="assets/images/acciones/organizar.svg" alt="">
                 <p>Organización de Foros y mesas de debate.</p>
             </li>                
-            <li>
+            <li data-aos="fade-down">
                 <img src="assets/images/acciones/sesiones.svg" alt="">
                 <p>Sesiones y talleres educativos.</p>
             </li>
@@ -226,7 +226,7 @@
                     <a href="#mailto" class="bold">info@curarseensalud.org</a>
                 </div>
                 
-                <div class="contact-socila-icons">
+                <div class="contact-socila-icons" data-aos="fade-down">
                     <a href="https://twitter.com/curarseensalud" target="_blank">
                         <i class="fi flaticon-twitter"></i>
                     </a>
@@ -241,7 +241,7 @@
             
             <div class="form box-container grid-item">
                 <form action="">
-                    <h3>Ponte en contacto</h3>
+                    <h3 data-aos="fade-down">Ponte en contacto</h3>
                     <div class="row">
                         <div class="input-field input-field col s12 l12 m12">
                             <label for="first_name">Nombre:</label>

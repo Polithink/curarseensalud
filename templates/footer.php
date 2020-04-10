@@ -2,7 +2,7 @@
     <div class="grid-container footer-grid-container">
         <div class="footer-contacto">
         </div>
-        <div class="footer-social-links">
+        <div class="footer-social-links" data-aos="fade-down">
             <p>Síguenos en nuestras redes sociales:</p>
             <a href="https://twitter.com/curarseensalud" target="_blank">
                 <i class="fi-w flaticon-twitter"></i>

@@ -4,7 +4,9 @@
 
 <script src="scr/js/nav.js"></script>
 <script>
-  AOS.init();
+  AOS.init({
+    once: true,
+  });
 </script>
 
 <?php 
