@@ -46,6 +46,12 @@
 				 include 'templates/biblioteca/biblioteca_template.php';
 				 include 'templates/footer.php';
 				 break;
+
+			case "guia-rapida-covid":
+				 include 'templates/nav.php';
+				 include 'templates/guia/guia_template.php';
+				 include 'templates/footer.php';
+				 break;
 				
 			case "global-week":
 				//  include 'templates/nav.php';
