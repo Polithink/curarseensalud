@@ -1,4 +1,4 @@
-<section class="container">
+<section class="container pt-95">
     <div class="grid-container">
         <h1>GUÍA RÁPIDA DE PREVENCIÓN DE COVID-19</h1>
         <p>
