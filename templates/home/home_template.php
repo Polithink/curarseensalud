@@ -225,7 +225,6 @@
                 <div class="afer-line">
                     <a href="#mailto" class="bold">info@curarseensalud.org</a>
                 </div>
-                
                 <div class="contact-socila-icons" data-aos="fade-down">
                     <a href="https://twitter.com/curarseensalud" target="_blank">
                         <i class="fi flaticon-twitter"></i>
